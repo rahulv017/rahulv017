@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahulv017
+- 👋 Hi, I’m Rahul Vyas.
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Spring boot, VueJS, MongoDb
 - 📫 How to reach me : LinkedIn: @RahulVyas https://www.linkedin.com/in/rahul-vyas-196655b4/
